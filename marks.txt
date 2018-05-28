@@ -1,0 +1,4 @@
+0.3 0.3 0.4
+Nguyen Van Minh 62.5 77.2 82.1
+Tran Binh 48 72.5 77.6
+Nguyen Thi Thu Thao 74.7 85 68.5
